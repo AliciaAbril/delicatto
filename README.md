@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=940034&height=120&section=header"/>
-# **Projeto Doceria Delicatto🍰🍩**
+
+# **Confeitaria Delicatto** 🍰🍩
+
+Bem-vindo ao repositório do projeto **Confeitaria Delicatto**!
 Criação do Site
 Este projeto foi desenvolvido por estudantes do SENAI com o objetivo de criar um site moderno e funcional para a Doceria Delicatto. A plataforma digital foi projetada para refletir a identidade visual da marca e oferecer uma experiência de usuário agradável e intuitiva.
 
