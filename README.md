@@ -1,6 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=940034&height=120&section=header"/>
-Projeto Doceria Delicatto - Criação do Site
+**Projeto Doceria Delicatto** 🍰🍩
+ Criação do Site
 Este projeto foi desenvolvido por estudantes do SENAI com o objetivo de criar um site moderno e funcional para a Doceria Delicatto. A plataforma digital foi projetada para refletir a identidade visual da marca e oferecer uma experiência de usuário agradável e intuitiva.
+
+## **Tecnologias Utilizadas**
+
+Neste projeto, utilizamos as seguintes tecnologias:
+
+- **HTML5 & CSS3** - Para estruturar e estilizar o site.
+- **JavaScript** - Para interatividade e funcionalidades dinâmicas.
+- **PHP** - Para manipulação de dados no backend.
+- **MySQL** - Para o banco de dados.
+- **Bootstrap** - Para responsividade e componentes prontos.
+- **Font Awesome** - Para ícones no layout.
 
 Funcionalidades:
 Cardápio Interativo: Os usuários podem visualizar todos os produtos da doceria, incluindo doces, salgados, bolos e bebidas, com descrições detalhadas e imagens atraentes.
