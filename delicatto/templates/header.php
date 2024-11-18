@@ -967,17 +967,85 @@
     color: #555;
     line-height: 1.5;
 }
+@media (max-width: 1200px) {
+      #navbar .navbar-nav .nav-link {
+        font-size: 14px;
+      }
+      .section-title {
+        font-size: 2rem;
+      }
+      .form-group label {
+        font-size: 14px;
+      }
+      .card img {
+        max-height: 180px;
+      }
+    }
 
+    @media (max-width: 992px) {
+      #navbar .navbar-nav .nav-link {
+        font-size: 14px;
+      }
+      .main-section {
+        padding: 10px;
+      }
+      .section-title {
+        font-size: 1.8rem;
+      }
+      .card img {
+        max-height: 150px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      #navbar .navbar-nav .nav-link {
+        font-size: 12px;
+        padding: 6px 10px;
+      }
+      .form-control {
+        padding: 8px;
+      }
+      .btn-primary {
+        padding: 8px 15px;
+      }
+      .card {
+        margin: 10px 0;
+      }
+      .card img {
+        max-height: 120px;
+      }
+    }
+
+    @media (max-width: 576px) {
+      .footer {
+        font-size: 12px;
+        padding: 15px 0;
+      }
+      .footer .social-icons a {
+        font-size: 18px;
+        margin: 0 5px;
+      }
+      .banner {
+        height: 50vh;
+      }
+      .banner img {
+        object-position: top;
+      }
+      .section-title {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+      }
+      .card img {
+        max-height: 100px;
+      }
+    }
   </style>
 
    <!-- faq -->
    <script src="faq.js"></script>
 
 </head>
-<body>
 
-  </style>
-</head>
 <body>
   <header>
     <nav class="navbar navbar-expand-lg d-flex align-items-center" id="navbar">
